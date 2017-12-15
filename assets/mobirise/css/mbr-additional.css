@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#header1-1 H1 {
+  font-family: 'Oswald', sans-serif;
+}
+#header1-1 SPAN {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 80px;
+}
+#ext_menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
