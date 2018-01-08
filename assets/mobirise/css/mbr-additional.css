@@ -1,5 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
 
 
 #header1-1 H1 {
@@ -20,4 +24,40 @@
 }
 #ext_menu-c .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-c .mbr-brand__name a {
+  font-size: 36px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-d .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-d .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-d .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-d .btn {
+  font-size: 32px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box4-d .mbr-article DIV {
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+}
+#content5-e .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+}
+#content5-e .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-e .mbr-article {
+  color: #fff;
+}
+#content5-e .mbr-article P {
+  font-size: 20px;
 }
